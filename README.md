@@ -30,6 +30,7 @@ A arquitetura do sistema foi desenhada unindo metodologias ágeis e ferramentas 
 ## 🔗 Links e Artefatos do Projeto
 
 - [🎨 Protótipo Interativo no Figma](https://www.figma.com/proto/F3N3CO9JuZGTTKcS5Ktbpp/biblioteca-valfenda?node-id=2-2&p=f&t=UrboLGnQyYF7zXWW-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2)
+- [🎨 Aplicação](https://sistemadegestaodabibliotecadevalfenda-agegwoffvhryb2lhqowtjb.streamlit.app/)
 
 ---  
 
